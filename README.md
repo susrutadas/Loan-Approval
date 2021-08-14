@@ -10,3 +10,6 @@ from sklearn.model_selection import train_test_split
 from sklearn import svm
 from sklearn.metrics import accuracy_score
 ```
+
+## Dataset File
+[Link to loan-prediction Dataset](https://www.kaggle.com/ninzaami/loan-predication)
